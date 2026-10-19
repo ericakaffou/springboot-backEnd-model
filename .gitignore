@@ -1,0 +1,25 @@
+HELP.md
+target/
+bin/
+.env
+.github/
+scripts/
+github/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
